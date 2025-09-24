@@ -17,6 +17,9 @@ Application web pour gérer le matériel informatique dans une organisation : ca
 ## Aperçu de l'application
 
 ![Aperçu](./screenshots/homepage.png)
+![Aperçu](./screenshots/materielpage.png)
+![Aperçu](./screenshots/Rapportspage.png)
+![Aperçu](./screenshots/notificationpage.png)
 
 
 ## 🚀 Démarrer le projet en local
