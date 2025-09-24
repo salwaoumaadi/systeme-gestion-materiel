@@ -13,6 +13,12 @@ Application web pour gérer le matériel informatique dans une organisation : ca
 
 ---
 
+ 
+## Aperçu de l'application
+
+![Aperçu](./screenshots/homepage.png)
+
+
 ## 🚀 Démarrer le projet en local
 
 ```bash
